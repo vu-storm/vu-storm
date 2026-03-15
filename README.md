@@ -44,8 +44,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://YOUR_VERCEL_APP.vercel.app/api?username=vu-storm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://YOUR_VERCEL_APP.vercel.app/api/top-langs/?username=vu-storm&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img height="165" src="https://github-readme-stats-i1c1519el-vu-storms-projects.vercel.app/api?username=vu-storm&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-i1c1519el-vu-storms-projects.vercel.app/api/top-langs/?username=vu-storm&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 </p>
 
 <p align="center">
