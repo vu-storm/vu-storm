@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Vu 👋</h1>
 
 <p align="center">
-  <b>Fullstack Developer · React · FastAPI · Spring Boot</b><br/>
-  6+ years building web platforms for Japanese &amp; Korean clients · Led FE teams on 4 enterprise projects
+  <b>Fullstack Developer</b><br/>
+  6+ years of experience
 </p>
 
 <p align="center">
